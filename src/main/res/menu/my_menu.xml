@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/item1" android:title="积分记录" android:icon="@mipmap/menu_eraser"></item>
+    <item android:id="@+id/item2" android:title="积分商城" android:icon="@mipmap/mima"></item>
+    <item android:id="@+id/item3" android:title="签到" android:icon="@mipmap/menu_history"></item>
+    <item android:id="@+id/item4" android:title="分享大牛" android:icon="@mipmap/menu_home"></item>
+    <item android:id="@+id/item5" android:title="会员状态" android:icon="@mipmap/mme"></item>
+</menu>
